@@ -20,3 +20,17 @@ build
 # other
 eclipse
 run
+
+
+
+gradle
+build.gradle
+changelog.txt
+CREDITS.txt
+gradle.properties
+gradlew
+gradlew.bat
+LICENSE.txt
+LICENSE-Paulscode IBXM Library.txt
+LICENSE-Paulscode SoundSystem CodecIBXM.txt
+README.txt
