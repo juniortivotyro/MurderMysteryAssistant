@@ -16,8 +16,8 @@ config.murdermystery.murdererupdatefrequency=Murderer Update Frequency
 config.murdermystery.murderertracerthickness=Murderer Tracer Thickness
 
 config.murdermystery.category_tracers=Tracers
-config.murdermystery.traceropacity=Tracers Opacity
-config.murdermystery.tracerthickness=Tracers Thickness
+config.murdermystery.traceropacity=Tracer Opacity
+config.murdermystery.tracerthickness=Tracer Thickness
 
 config.murdermystery.category_esp=ESP
 config.murdermystery.espopacity=ESP Opacity
