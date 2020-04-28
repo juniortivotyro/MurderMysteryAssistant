@@ -1,0 +1,16 @@
+[
+{
+  "modid": "murdermystery",
+  "name": "Murder Mystery Assistant",
+  "description": "Murder Mystery Assistant",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["cdhoff"],
+  "credits": "cdhoff",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

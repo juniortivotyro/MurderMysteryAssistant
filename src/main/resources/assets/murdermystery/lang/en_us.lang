@@ -1,0 +1,23 @@
+key.murdermystery.category=Murder Mystery Assistant
+key.esp.toggle=ESP Toggle
+key.fullbright.toggle=Fullbright Toggle
+key.murdererautosend.toggle=MurdererAutoSend Toggle
+key.murdermystery.toggle=MurderMystery Toggle
+key.nametags.toggle=NameTags Toggle
+key.tracers.toggle=Tracers Toggle
+key.truesight.toggle=TrueSight Toggle
+key.wallhack.toggle=WallHack Toggle
+key.autotool.toggle=AutoTool Toggle
+key.autosword.toggle=AutoSword Toggle
+
+config.murdermystery.category_murdermystery=Murder Mystery
+config.murdermystery.detectableitems=Detectable Items
+config.murdermystery.murdererupdatefrequency=Murderer Update Frequency
+config.murdermystery.murderertracerthickness=Murderer Tracer Thickness
+
+config.murdermystery.category_tracers=Tracers
+config.murdermystery.traceropacity=Tracer Opacity
+config.murdermystery.tracerthickness=Tracer Thickness
+
+config.murdermystery.category_esp=ESP
+config.murdermystery.espopacity=ESP Opacity
