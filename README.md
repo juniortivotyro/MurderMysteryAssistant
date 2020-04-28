@@ -1,8 +1,8 @@
-#Murder Mystery Assistant
+# Murder Mystery Assistant
 
 A Forge-Based Minecraft mod that adds some helpful features that assist you in gaining a competitive edge in Murder Mystery
 
-###Features
+### Features
 
 - AutoSword: Switch to sword when you point at a player
 - AutoTool: Switch to the fastest tool to break a block you left click
